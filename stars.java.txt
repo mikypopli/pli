@@ -1,0 +1,15 @@
+class stars
+{
+Public Static Void Main (string{}args){
+int l,m,n;
+for(l=1;l<=8;l++)
+{
+for(m=5;m>l;m--)
+{
+system.out.println(" ");
+}
+for(n=1;n<l;n++)
+{
+system.out.println("* ");
+}
+}
